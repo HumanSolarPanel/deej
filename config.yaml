@@ -8,11 +8,11 @@
 # important: slider indexes start at 0, regardless of which analog pins you're using!
 slider_mapping:
   0: deej.current
-  1: Speakers (2- Realtek(R) Audio)
+  1: Speakers (2- Realtek(R) Audio) #BKGamer2
   2: Chrome.exe
-  3:
-    - acc.exe
-    - acs.exe
+  3: 
+     - acs.exe #AC
+     - AC2-Win64-Shipping.exe #ACC
   4: discord.exe
 
 # set this to true if you want the controls inverted (i.e. top is 0%, bottom is 100%)
